@@ -37,6 +37,3 @@ const App = () => {
   );
 };
 export default App;
-
-// done with nft card component (done SUBINFO)
-// TODO:header

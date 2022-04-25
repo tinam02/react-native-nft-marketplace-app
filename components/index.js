@@ -10,6 +10,8 @@ import {
   People,
   EndDate,
 } from "./SubInfo";
+import DetailsDesc from "./DetailsDesc";
+import DetailsBid  from "./DetailsBid";
 
 export {
   HomeHeader,
@@ -23,4 +25,6 @@ export {
   ImageCmp,
   People,
   EndDate,
+  DetailsBid,
+  DetailsDesc,
 };
